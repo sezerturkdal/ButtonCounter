@@ -1,2 +1,2 @@
 # ButtonCounter
-This application indicates how many times the button is clicked.
+This application indicates how many times which button is clicked.
